@@ -13,6 +13,6 @@ def pow(a, b):
         res *= a
         base = res * res
 
-    if numb  < 0:
+    if numb < 0:
         res /= base
     return res
