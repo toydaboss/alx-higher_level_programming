@@ -1,12 +1,7 @@
 i#!/usr/bin/python3
-"""
-Module 1-square
-Defines class Square
-"""
+"""Module 1-square. Defines class Square"""
 
 
 class Square:
-    """
-    Empty class
-    """
+    """Defines a square"""
     pass
