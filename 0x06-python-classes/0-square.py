@@ -1,5 +1,8 @@
-i#!/usr/bin/python3
-"""Module 1-square. Defines class Square"""
+#!/usr/bin/python3
+"""
+Module 1-square.
+Defines class Square
+"""
 
 
 class Square:
